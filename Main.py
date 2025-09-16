@@ -43,6 +43,7 @@ def selectoptn():
             print("==="*40)
             print("Account Number: ",accs)
             print("\nPLEASE SAVE YOUR ACCOUNT NUMBER, AS IT MAY BE VISIBLE TO YOU ONLY ONCE... CONTACT ADMIN FOR SUPPORT!")
+            print("This code is brought to you by Advit Goel")
             time.sleep(7) 
         else:
             print("INVALID CONTACT NUMBER... PLEASE TRY AGAIN")
@@ -85,6 +86,7 @@ def selectoptn():
                     - MiniBank System
                     =================================================
                     """
+                    print("This code is brought to you by Advit Goel")
 
                     print(email_receipt)
                 elif x != "n":
@@ -145,6 +147,7 @@ def selectoptn():
                         - MiniBank System
                         =================================================
                         """
+                        print("This code is brought to you by Advit Goel")
                         print(email_receipt)
 
                     elif x != "n":
@@ -177,6 +180,8 @@ def selectoptn():
                 print("Address:", search[i][3])
                 print("Amount: INR", search[i][4])
 
+                print("===" * 40)
+                print("This code is brought to you by Advit Goel")
                 print("===" * 40)
                 print("These are your account Details... Please select an option to proceed: ")
                 print("(1) Update information")
@@ -262,6 +267,7 @@ while True:
     print("d - VIEW / UPDATE ACCOUNT STATS")
     print("e - EXIT")
     print("========================================")
+    print("This code is brought to you by Advit Goel")
     useroption = input("Enter your choice: ").lower()
     selectoptn()
     time.sleep(2)
@@ -271,3 +277,4 @@ while True:
         break
 
 records.close()
+
