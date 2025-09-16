@@ -37,7 +37,6 @@ Created as a personal project to explore **user‑defined functions** and **CSV 
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 | File / Folder       | Description                |
 |---------------------|----------------------------|
@@ -61,21 +60,23 @@ cd Mini-Bank-Application
 python main.py
 
 📖 Usage
-Launch the program
+- Launch the program
 
-Choose an option from the menu:
+- Choose an option from the menu:
 
-Create Account
+- Create Account
 
-Deposit Money
+- Deposit Money
 
-Withdraw Money
+- Withdraw Money
 
-Check Balance
+- Check Balance
 
-Follow the prompts to complete your transaction
+**Follow the prompts to complete your transaction**
 
-##💻 Example Output
+---
+
+## 💻 Example Output
 ![Sample Output](images/Example%20Output%201.png)
 ![Sample Output](images/Example%20Output%202.png)
 
