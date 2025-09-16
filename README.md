@@ -41,7 +41,7 @@ Created as a personal project to explore **user‑defined functions** and **CSV 
 
 | File / Folder       | Description                |
 |---------------------|----------------------------|
-| `main.py`           | Main program logic         |
+| [`main.py`](https://github.com/coolgoel12344/Mini-Bank-Application/blob/main/Main.py)           | Main program logic         |
 | `bank_records.csv`  | Stores account data        |
 | `README.md`         | Project documentation      |
 
