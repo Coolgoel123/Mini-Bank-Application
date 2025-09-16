@@ -76,6 +76,7 @@ Check Balance
 Follow the prompts to complete your transaction
 
 ##💻 Example Output
+![Sample Output](images/Example%20Output%201.png)
 
 🔮 Future Plans
 - Add password protection for accounts
