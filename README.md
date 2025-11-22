@@ -78,6 +78,7 @@ python main.py
 
 ## 💻 Example Output
 ![Sample Output](images/Example%20Output%201.png)
+---------------------------------------------------------------------------------------------------------
 ![Sample Output](images/Example%20Output%202.png)
 
 🔮 Future Plans
